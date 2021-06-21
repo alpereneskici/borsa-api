@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUOTfs0e3NMErwDuDecY9C1AJANVDWiszM9su8aOvK7zak8ykQwZwkb0GsS5feKTmrbjQ7Zhnf4y1em4OvIXDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\umutr\\source\\repos\\odevdeneme2\\odevdeneme2\\odevdeneme2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umutr\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\microsoft.graph\\3.33.0\\microsoft.graph.3.33.0.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\microsoft.graph.core\\1.25.1\\microsoft.graph.core.1.25.1.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\nhibernate\\5.3.8\\nhibernate.5.3.8.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\remotion.linq.eagerfetching\\2.2.0\\remotion.linq.eagerfetching.2.2.0.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\umutr\\.nuget\\packages\\system.valuetuple\\4.3.0\\system.valuetuple.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

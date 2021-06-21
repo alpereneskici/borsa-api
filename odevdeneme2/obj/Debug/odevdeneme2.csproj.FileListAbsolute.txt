@@ -1,0 +1,111 @@
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.exe.config
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.exe
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.pdb
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csprojAssemblyReference.cache
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Properties.Resources.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csproj.GenerateResource.cache
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csproj.CoreCompileInputs.cache
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.exe
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.pdb
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Adminpanel.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AraPanel.resources
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.exe.config
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.exe
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.pdb
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csprojAssemblyReference.cache
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Adminpanel.resources
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AraPanel.resources
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Properties.Resources.resources
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csproj.GenerateResource.cache
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csproj.CoreCompileInputs.cache
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.exe
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.pdb
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AliciVeSatıciBilgileri.resources
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AlisverisEkranı.resources
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.GirisEkrani.resources
+C:\Users\umutr\OneDrive\Desktop\yazılım yapım video dosyalar\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.KayitEkrani.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AliciVeSatıciBilgileri.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AlisverisEkranı.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.GirisEkrani.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.KayitEkrani.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Rapor_Olustur.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csproj.CopyComplete
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\Iesi.Collections.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\Microsoft.Graph.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\NHibernate.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\Remotion.Linq.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\System.Buffers.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\System.Memory.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\odevdeneme2.exe.config
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\odevdeneme2.exe
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\odevdeneme2.pdb
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\Iesi.Collections.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\Microsoft.Graph.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\NHibernate.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\Remotion.Linq.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\System.Buffers.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\System.Memory.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.csprojAssemblyReference.cache
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.Adminpanel.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.AliciVeSatıciBilgileri.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.AlisverisEkranı.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.AraPanel.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.GirisEkrani.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.KayitEkrani.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.Properties.Resources.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.Rapor_Olustur.resources
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.csproj.GenerateResource.cache
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.csproj.CoreCompileInputs.cache
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.csproj.CopyComplete
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.exe
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\obj\Debug\odevdeneme2.pdb
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\umutr\OneDrive\Desktop\Yeni klasör (3)\odevdeneme2\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\odevdeneme2.exe.config
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\odevdeneme2.exe
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\odevdeneme2.pdb
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\Antlr3.Runtime.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\Iesi.Collections.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\Microsoft.Graph.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\NHibernate.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\Remotion.Linq.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\System.Buffers.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\System.Memory.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.csprojAssemblyReference.cache
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.Adminpanel.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.AliciVeSatıciBilgileri.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.AlisverisEkranı.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.AraPanel.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.GirisEkrani.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.KayitEkrani.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.Properties.Resources.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.Rapor_Olustur.resources
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.csproj.GenerateResource.cache
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.csproj.CoreCompileInputs.cache
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.csproj.CopyComplete
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.exe
+C:\Users\umutr\source\repos\yazılımyapımı\odevdeneme2\obj\Debug\odevdeneme2.pdb
