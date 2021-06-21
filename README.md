@@ -10,4 +10,4 @@ UserStory-8 (Muhasebe_kullanıcısı aracılık ücreti yüzde 1 olsun ve bu tut
 
 Proje geliştirilirken C# dilinden yararlandı.
 
-Projeyi geliştirenler 192805005 [Umut Bilgin],192803059 [Alperen Eskici] 'dir.
+Projeyi geliştirenler 192805005 [Umut Bilge],192803059 [Alperen Eskici] 'dir.
